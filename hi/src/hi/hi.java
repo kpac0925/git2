@@ -10,7 +10,7 @@ System.out.println("hello World");
 
 System.out.println("hellssssffffdddssddddfsso World nanioitteirukazenzenwakarimaseng");
 
-System.out.println("hellssssffffddddddddddddfsfdsfwtergfdgdfgdddddddddddddddddddfsso World nanioitteirukazenzenwakarimaseng");
+System.out.println("nanioitteirukazenzenwakarimaseng");
 
 
 
